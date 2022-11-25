@@ -15,7 +15,7 @@ datafusion-common = { git = "https://github.com/apache/arrow-datafusion/", rev =
 datafusion-expr = { git = "https://github.com/apache/arrow-datafusion/", rev = "d2d8447ed23bab3c9b9fd89abe469d584e84df6b" }
 datafusion-optimizer = { git = "https://github.com/apache/arrow-datafusion/", rev = "d2d8447ed23bab3c9b9fd89abe469d584e84df6b" }
 datafusion-sql = { git = "https://github.com/apache/arrow-datafusion/", rev = "d2d8447ed23bab3c9b9fd89abe469d584e84df6b" }
-env_logger = "0.9"
+env_logger = "0.10"
 log = "^0.4"
 mimalloc = { version = "*", default-features = false }
 parking_lot = "0.12"
